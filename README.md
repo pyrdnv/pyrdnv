@@ -1,10 +1,6 @@
-<p align="center">
-<img src="YOUR_GIF_URL_HERE" width="40%"> </p>
-<p align="center"> 
-<img src="YOUR_SECOND_GIF_URL_HERE" align="center" style="width: 70%">  
-</p>
+![GIF](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
    
-### <div align="center">I'm [Your Name], an AI Graduate and Freelance Data Scientist</div>  
+### <div align="center">I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
 
 - 🔭 I recently worked on [mention a significant project or thesis] as a [Your Role] with [Company/Organization Name].
   
