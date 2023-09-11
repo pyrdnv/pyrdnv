@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Analyze Lucky Charms GIF by Giflytics" width=200px height=200px>
+  <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Analyze Lucky Charms GIF by Giflytics" width="250" height="250">
 </p>
+
 
   
   I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
