@@ -2,8 +2,8 @@
   <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Analyze Lucky Charms GIF by Giflytics" width="250" height="250">
 </p>
 
+<br/>
 
-  
   I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
   
 - ❓ Ask me about anything related to AI, data science, and the exciting projects I am working on. 
@@ -14,7 +14,7 @@
 
 - 📫 Reach me at : **petaryrdnv@gmail.com** or send a message on LinkedIn.
   
-
+<br/>
 
 ## Languages and Tools
 <p align="left"> 
@@ -47,16 +47,17 @@
 </a> 
 </p>
 
+<br/>
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/pyrdnv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+<a href="https://www.linkedin.com/in/petar-yordanov-258201256" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@YOUR_MEDIUM_USERNAME" target="_blank">
+<a href="https://medium.com/@petaryrdnv" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>   
