@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZjbGZ2Mmx0b2hvbWJyeDNyeXI3c3N5aThhbXBoa2J3b3pwa3E0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="50%" height="50%">
+  <img src="https://media4.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50%" height="50%">
+</p>
+<p align="center">
+  <a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a>
 </p>
 
 ### <div align="center">I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
