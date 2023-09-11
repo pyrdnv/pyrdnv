@@ -4,9 +4,8 @@
 
 <br/>
 
-  I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
+  Hi there! I'm Petar, an AI Specialist and Freelance Data Scientist. My goal is to create a brighter future through data and sustainable innovation!</div>  
   
-- ❓ Ask me about anything related to AI, data science, and the exciting projects I am working on. 
 
 - 💬 Visit my website : ...
   
