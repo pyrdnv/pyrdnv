@@ -1,4 +1,6 @@
-![GIF](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50%" height="50%">
+</p>
    
 ### <div align="center">I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
 
