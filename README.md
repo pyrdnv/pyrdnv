@@ -8,9 +8,9 @@
   
 - ❓ Ask me about anything related to AI, data science, and the exciting projects I am working on. 
 
-- 💬 Visit my website : [https://yourwebsite.github.io/](Your Website URL)
+- 💬 Visit my website : ...
   
-- 📝 I regularly write articles on [Your Blog URL](Your Blog URL)
+- 📝 I regularly write articles on https://medium.com/@petaryrdnv
 
 - 📫 Reach me at : **petaryrdnv@gmail.com** or send a message on LinkedIn.
   
@@ -65,8 +65,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Your recent blog post title](Your recent blog post link)
-- [Another recent blog post title](Another recent blog post link)
+- [Unleashing the Titans of AI: A Glimpse into the Future with Foundation Models](https://medium.com/@petaryrdnv/unleashing-the-titans-of-ai-a-glimpse-into-the-future-with-foundation-models-f712b9ad3fbd)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
