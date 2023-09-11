@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50%" height="50%">
+  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50%" height="50%">
 </p>
-   
+<p align="center">
+  <a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a>
+</p>
+
 ### <div align="center">I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
 
 - 🔭 I recently worked on [mention a significant project or thesis] as a [Your Role] with [Company/Organization Name].
