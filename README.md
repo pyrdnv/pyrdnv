@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" width="50%" height="50%">
-</p>
+
 <p align="center">
   <a href="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">via GIPHY</a>
 </p>
