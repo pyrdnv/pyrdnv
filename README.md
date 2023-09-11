@@ -2,38 +2,21 @@
   <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Analyze Lucky Charms GIF by Giflytics" width="250" height="250">
 </p>
 
-
   
   I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
-
-- 🔭 I recently worked on [mention a significant project or thesis] as a [Your Role] with [Company/Organization Name].
-  
-- 🌱 I’m currently enhancing my knowledge in [mention a technology or skill you are learning] . 
   
 - ❓ Ask me about anything related to AI, data science, and the exciting projects I am working on. 
-  
-- ⚡ Fun fact: [Share a fun or interesting personal tidbit to add some personality to your profile!]
 
 - 💬 Visit my website : [https://yourwebsite.github.io/](Your Website URL)
   
 - 📝 I regularly write articles on [Your Blog URL](Your Blog URL)
 
-- 📫 Reach me at : **your_email@example.com** or send a message on LinkedIn.
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="YOUR_USERNAME" />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-</p>
+- 📫 Reach me at : **petaryrdnv@gmail.com** or send a message on LinkedIn.
+- 
 
 ## Languages and Tools
-<p align="left"> 
-<!-- Add or remove technologies as per your profile -->
-<a href="TECH_URL" target="_blank"> 
-<img src="TECH_ICON_URL" alt="TECH_NAME" width="40" height="40"/> 
-</a> 
-... 
-</p>
+## Languages and Tools
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.r-project.org/about.html" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.tableau.com/themes/custom/tableau_www/logo.png" alt="Tableau" width="150" height="40"/> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt="Numpy" width="70" height="40"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a> </a> </p>
 
 ## Connect with me  
 <div align="left">
