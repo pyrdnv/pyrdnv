@@ -39,7 +39,7 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
 <a href="https://pytorch.org/" target="_blank" style="margin-right: 10px;"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="70" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="90" height="30"/> 
 </a> 
 <a href="https://spark.apache.org/" target="_blank" style="margin-right: 10px;"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="70" height="40"/> 
