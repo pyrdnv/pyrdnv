@@ -1,9 +1,9 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="20%" height="20%">
+  <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e479e9m0iv6pwlu0m7ind74am5mpim57tcf25rppv57&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g" alt="Analyze Lucky Charms GIF by Giflytics" width="50%" height="50%">
 </p>
 
-### <div align="center">I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
+  
+  I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
 
 - 🔭 I recently worked on [mention a significant project or thesis] as a [Your Role] with [Company/Organization Name].
   
