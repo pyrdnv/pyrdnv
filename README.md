@@ -34,7 +34,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40" style="margin-right:10px;"/> 
 </a> 
 <a href="https://scikit-learn.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right:10px;"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="margin-right:30px;"/> 
 </a> 
 <a href="https://www.tensorflow.org" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right:10px;"/> 
