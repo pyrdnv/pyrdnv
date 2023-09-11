@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://media4.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)" width="50%" height="50%">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="50%" height="50%">
 </p>
 
 ### <div align="center">I'm Petar, an AI Graduate and Freelance Data Scientist</div>  
