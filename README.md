@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Analyze Lucky Charms GIF by Giflytics" width="250" height="250">
-</p>
-
-<br/>
-
   Hi there! I'm Petar, an AI Specialist and Freelance Data Scientist. My goal is to create a brighter future through data and sustainable innovation!</div>  
   
 
