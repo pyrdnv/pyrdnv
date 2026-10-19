@@ -1,11 +1,5 @@
   Hi there! I'm Petar, an AI Specialist and Freelance Data Scientist. My goal is to create a brighter future through data and sustainable innovation!</div>  
   
-
-- 💬 Visit my website : ...
-  
-- 📝 I regularly write articles on https://medium.com/@petaryrdnv
-
-- 📫 Reach me at : **petaryrdnv@gmail.com** or send a message on LinkedIn.
   
 <br/>
 
